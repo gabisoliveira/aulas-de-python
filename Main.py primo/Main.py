@@ -1,3 +1,4 @@
+""""
 def main():
     numero = int(input ("digite um número:"))
                 
@@ -20,4 +21,4 @@ def main():
 
     return 0
 main()
-    
+"""
