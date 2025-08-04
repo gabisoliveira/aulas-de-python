@@ -1,3 +1,4 @@
+""""
 def main():
     nome = input("Digite seu nome")
     idade = int (input("Digite a sua idade"))
@@ -13,3 +14,5 @@ def main():
 
     return 0
 main()
+"""
+
